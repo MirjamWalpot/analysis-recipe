@@ -13,4 +13,3 @@ Instructions:
 3. Click `Perform operations`. The dataset should now be the same as your other cleaned dataset.
 4. Save the dataset as samples_openrefine_lesson_clean.csv
    
-Now we need to detlete the saved file. Voila!
